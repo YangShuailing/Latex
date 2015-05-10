@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.14pt}
+\select@language {english}
+\beamer@sectionintoc {2}{Classification }{3}{0}{1}
+\beamer@sectionintoc {3}{Summaries}{26}{0}{2}
